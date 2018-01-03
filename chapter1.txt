@@ -1,0 +1,3 @@
+﻿Notatki:
+
+Konsolidacja polega na łączeniu własnego kodu wynikowego z kodem wynikowym używanych funkcji oraz dodatkowym kodem startowym, który pozwala nasz program w ogóle uruchomić. Plik zawierający efekt końcowy wszystkich tych przekształceń to kod wykonywalny.
