@@ -1,3 +1,14 @@
 ﻿Notatki:
 
 Konsolidacja polega na łączeniu własnego kodu wynikowego z kodem wynikowym używanych funkcji oraz dodatkowym kodem startowym, który pozwala nasz program w ogóle uruchomić. Plik zawierający efekt końcowy wszystkich tych przekształceń to kod wykonywalny.
+
+Nazwy pliki nagłówkowych 
+Pliki takie jak iostream to pliki włączane lub inaczej pliki nagłówkowe. Kompilatory C++ zawsze są dostarczane wraz z szeregiem plików nagłówkowych, z których każdy obsługuje pewną grupę narzędzi.
+
+using namespace std;
+Dyrektywa using powoduje, że wszystkie nazwy z przestrzeni std stają się dostępne.
+
+Przeciążenie operatorów
+Operator wykonuje przynajmniej dwie rzeczy np.
+<< w C przesunięcie bitowe
+<< w C++ oznaczenie przed napisem
