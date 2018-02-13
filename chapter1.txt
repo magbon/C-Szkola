@@ -12,3 +12,7 @@ Przeciążenie operatorów
 Operator wykonuje przynajmniej dwie rzeczy np.
 << w C przesunięcie bitowe
 << w C++ oznaczenie przed napisem
+
+Rozdział 3:
+Klasa do zbiór danych i sposobów manipulacji tymi danymi.
+Metoda przynależy do klasy i opisuje sposób przetwarzania jej danych. Metody można użyć tylko w powiązaniu z konkretnym obiektem danej klasy.
