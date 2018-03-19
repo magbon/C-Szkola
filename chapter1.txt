@@ -16,3 +16,9 @@ Operator wykonuje przynajmniej dwie rzeczy np.
 Rozdział 3:
 Klasa do zbiór danych i sposobów manipulacji tymi danymi.
 Metoda przynależy do klasy i opisuje sposób przetwarzania jej danych. Metody można użyć tylko w powiązaniu z konkretnym obiektem danej klasy.
+
+Rozdział 4:
+Długość łańcucha przed wprowadzeniem danych może wynosić więcej niż długość tablicy. Zawartość niezainicjowanej tablicy jest nieokreślona.
+Pierwszy znak zerowy może się pojawić kilka bajtów po.
+
+cout << R"("Król" "\n" ). << " nie ma potrzeby stosowania slasha przy znaku ";
